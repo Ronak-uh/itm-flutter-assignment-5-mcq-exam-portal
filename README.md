@@ -8,7 +8,7 @@ Built for **Assignment 5** of the ITM Skills University Flutter course.
 
 | | |
 |---|---|
-| **Student** | Ronak Chavhan |
+| **Team Members** | Ronak Chavhan, Yash Lal |
 | **Roll number** | 150096724107 |
 | **Stack** | Flutter · Node.js/Express · Firestore · Cloudinary |
 
